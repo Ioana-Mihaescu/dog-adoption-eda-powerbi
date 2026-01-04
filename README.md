@@ -8,7 +8,7 @@ This project explores dog adoption patterns using data from the Austin Animal Ce
 The goal was to understand how age, sex, sterilisation status, breed, and time influence adoption outcomes.
 
 ## Dataset
-- **Source:** Austin Animal Center – Shelter Outcomes  
+- **Source:** Austin Animal Center – Shelter Outcomes (accessed via Kaggle) 
 - **Scope:** Dogs adopted only  
 - **Final dataset size:** 84,600 adopted dogs  
 
