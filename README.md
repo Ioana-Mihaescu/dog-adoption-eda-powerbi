@@ -40,8 +40,10 @@ The goal was to understand how age, sex, sterilisation status, breed, and time i
 ## Files
 - Power BI dashboard screenshots (see images below)  
 - Power BI file available upon request
+
   
-## 📊 Power BI Dashboard
+## 📊 Dashboard Overview
+
 
 ![Dog Adoption Dashboard](dashboard_overview.png)
 
