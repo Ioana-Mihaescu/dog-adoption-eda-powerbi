@@ -39,10 +39,13 @@ The goal was to understand how age, sex, sterilisation status, breed, and time i
 
 ## Files
 - Power BI dashboard screenshots (see images below)  
-- Power BI file available upon request  
+- Power BI file available upon request
+  
+## 📊 Power BI Dashboard
+
+![Dog Adoption Dashboard](dashboard_overview.png)
 
 
-<img width="1408" height="862" alt="Dog Adoption Analysis - Austin Animal Center" src="https://github.com/user-attachments/assets/235078d6-3ee3-4003-bfa6-78332cdeeab0" />
 
 ## 👤 Author
 Ioana Mihaescu
